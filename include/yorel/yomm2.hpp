@@ -7,6 +7,7 @@
 #define YOREL_YOMM2_INCLUDED
 
 #include <algorithm>
+#include <cstdint>
 #include <memory>
 #include <type_traits>
 #include <typeinfo>
